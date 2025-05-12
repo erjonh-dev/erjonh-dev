@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Erjon Havolli 
+
+I'm a Junior Full Stack Developer who has recently built several web apps, each one sparking more excitement for development.
+These projects have allowed me to grow my skills.
+
+I'm currently looking for a Junior Full Stack Developer role where I can continue to learn, grow, and contribute within a collaborative team.
 
 <!--
 **erjonh-dev/erjonh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
